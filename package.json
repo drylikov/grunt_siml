@@ -1,0 +1,25 @@
+{
+  "name": "grunt_siml",
+  "version": "1.0.0",
+  "description": "SIML in Grunt",
+  "license": "MIT",
+  "keywords": [
+    "gruntplugin",
+    "siml"
+  ],
+  "main": "Grunfile.js",
+  "dependencies": {
+    "siml": "^0.3.0"
+  },
+  "devDependencies": {
+    "grunt": ">=1.0.0-rc1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drylikov/grunt_siml.git"
+  },
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "scripts": {
+    "test": "grunt"
+  }
+}

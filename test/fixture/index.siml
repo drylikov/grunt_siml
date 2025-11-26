@@ -1,0 +1,5 @@
+@doctype()
+
+html[lang="en-GB"]
+  p "test"
+
